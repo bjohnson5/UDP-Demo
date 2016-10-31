@@ -1,2 +1,2 @@
 # UDP-Demo
-Demonstrating a file transfer using UDP
+Demonstrating a file transfer using UDP.
